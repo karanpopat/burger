@@ -1,10 +1,7 @@
 {
   "name": "@karanpopat/burger",
   "version": "0.1.0",
-  "author": {
-    "name": "karanpopat",
-    "email": "karanpopat@gmail.com"
-  },
+  "author": "karanpopat <karanpopat@gmail.com>",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
