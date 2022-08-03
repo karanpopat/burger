@@ -6,7 +6,7 @@
     "email": "karanpopat@gmail.com"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/new-testing-org"
+    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "react": "^16.4.1",
